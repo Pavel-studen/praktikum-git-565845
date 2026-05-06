@@ -5,7 +5,7 @@
 
 .main{
     width:100%;
-    background:burlywood;
+    background:brown;
     background-position:center;
     background-size:cover;
     height:108vh;
@@ -21,7 +21,7 @@
     height:90px;
 }
 .logo{
-    color:aliceblue;
+    color:white;
     font-size:40px;
     font-family:Segoe UI;
     padding-left:20px;
